@@ -1,2 +1,3 @@
-# doc_scrapper
-a tool for coding agents to get structured information about dcumentation about api and libraries predominantly
+# docs_scrapper
+
+A tool for coding agents to get structured information about documentation about API and libraries predominantly
